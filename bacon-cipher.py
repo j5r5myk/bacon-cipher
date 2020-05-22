@@ -13,7 +13,6 @@ if len(sys.argv) < 2:
 # if len(sys.argv) = 3:
 # TODO: Read from stdin
 
-#encoded = "AAABBAABAABAAABABBBB ABAAA ABABBABBBABABABAABAA AAAABAAAAAAAABAABBBAABBAB"
 encoded = sys.argv[1]
 
 # Strip whitespace
